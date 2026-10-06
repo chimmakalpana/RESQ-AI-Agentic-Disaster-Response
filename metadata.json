@@ -1,0 +1,8 @@
+{
+  "name": "RESQ-AI — Disaster Coordination System",
+  "description": "Agentic AI Emergency Response & Disaster Coordination System for multi-agent disaster classification, resource matching, evacuation routing, and bilingual communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
